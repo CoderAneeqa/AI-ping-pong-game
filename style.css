@@ -1,0 +1,35 @@
+body{
+
+    background-size: cover;
+}
+
+.header{
+
+    width: 100%;
+    text-align: left;
+    height: 65px;
+}
+
+#heading{
+
+    font-size: 30px;
+}
+
+#start_button{
+
+    font-size: 20px;
+    background-color: darkslateblue;
+}
+
+#rules{
+
+    float: right;
+    border: 1px solid white;
+    margin-top: 0px;
+}
+
+#canvas_holder{
+
+    border-color: aliceblue;
+    border-width: 3px;
+}
